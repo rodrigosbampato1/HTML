@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title> BOLO OSTENTAÇÃO RECEITA SUPER FÁCIL (bolo de festa) </title>
+
+</head>
+
+<body style="background-color: rgb(45, 160, 189);">
+    <h1 style="text-align: center;">Bolo de Festa Ostentação</h1> 
+  <center>
+    <img src="bolo ostentação.jpg">
+  </center>  
+
+    <header>
+
+        <nav>
+            <h1> Menu Principal</h1>
+            <li><a href="Exercicio 3 .html">HOME</a></li>
+            <li><a href="Receita exer3.html">Receita</a></li> 
+            <li><a href="video ex3.html">Video</a></li> 
+            <li><a href="Contatos.html">Contato</a></li> 
+
+
+        </nav>
+
+        <hgroup>
+            
+            <h3 style="text-decoration: underline;">Hoje eu ensino um delicioso Bolo ostentação mais chocolatudo do mundo, gente é mega fácil de fazer e 
+            extremamente delicioso, então papel e caneta nas mãos e anote a Receita : )</h3>
+            
+          
+          
+      
+
+
+        </hgroup>
+    
+        <center>
+            <img src="Bolo 2.jpg"/>
+        </center>
+       
+
+        <center>
+            <img src="facu cruz-peque.jpg"/>
+        </center>
+
+
+    </header>
+
+
+
+
+
+ 
+</body>
+</html>
